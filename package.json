@@ -12,6 +12,8 @@
   "dependencies": {
     "textlint": "^12.1.1",
     "textlint-filter-rule-comments": "^1.2.2",
-    "textlint-rule-no-todo": "^2.0.1"
+    "textlint-rule-no-dropping-the-ra": "^3.0.0",
+    "textlint-rule-no-todo": "^2.0.1",
+    "textlint-rule-period-in-list-item": "^1.0.1"
   }
 }
